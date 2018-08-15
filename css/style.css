@@ -1,0 +1,48 @@
+.breadcrumb {
+  background: transparent;
+}
+
+.color-jia {
+  color: #c48888 !important;
+}
+
+.color-jia-second {
+  color: #c9454d !important;
+}
+
+.color-jia:hover {
+  color: #c9454d !important;
+}
+
+.badage-jia {
+  text-decoration: none;
+  color: #fff;
+  background: #c9454d !important;
+}
+
+.badage-jia:hover {
+  text-decoration: none;
+  color: #fff;
+  background: #c48888 !important;
+}
+
+.container h1 {
+  font-size: 30px;
+}
+
+.container h2 {
+  font-size: 24px;
+}
+
+.container h3 {
+  font-size: 18px;
+}
+
+.container p {
+  font-size: 16px;
+}
+
+.container .article p {
+  color: #5b5b5b;
+  text-indent: 32px;
+}

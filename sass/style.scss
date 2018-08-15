@@ -1,0 +1,46 @@
+$primary-color:#c48888;
+$second-color:#c9454d ;
+$heavy-color:#5b5b5b;
+$dark-color:#000;
+
+
+
+.breadcrumb{
+   background: transparent;
+} 
+.color-jia{
+    color: $primary-color !important;
+}
+.color-jia-second{
+    color:$second-color  !important;
+}
+.color-jia:hover{
+    color: $second-color !important;
+}
+.badage-jia{
+    text-decoration: none;
+    color: #fff;
+    background:$second-color  !important;
+}
+.badage-jia:hover{ text-decoration: none;
+    color: #fff;
+    background:$primary-color !important;
+}
+.container{
+h1{
+    font-size:30px;
+}
+h2{
+    font-size:24px;
+}
+h3{
+    font-size: 18px;
+}
+p{
+    font-size: 16px;
+}
+.article{
+    p{
+        color: $heavy-color;
+        text-indent: 32px;}
+}}
